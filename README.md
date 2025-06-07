@@ -1,4 +1,4 @@
-# 🚗 PID Line Follower Robot (By Using Arduino and L298 Motor Driver)
+# 🚗 PID Line Follower Robot (By Using Arduino and L298N Motor Driver)
 
 This Arduino project is a **PID-controlled Line Follower Robot** that uses three IR sensors to follow a black line on a white surface. The robot uses a basic PID control algorithm to adjust its motor speeds in real-time for smooth and accurate line tracking.
 
